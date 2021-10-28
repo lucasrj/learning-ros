@@ -1,4 +1,4 @@
-prefix=/home/lucasrj/ros/test/devel
+prefix=/home/lucasrj/github/learning-ros/camara test/devel
 
 Name: webCamTest
 Description: Description of webCamTest
