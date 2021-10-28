@@ -1,0 +1,2 @@
+beginner_tutorials:cv_basics:webCamTest
+-DCATKIN_DEVEL_PREFIX=/home/lucasrj/ros/test/devel -DCMAKE_INSTALL_PREFIX=/home/lucasrj/ros/test/install -G Unix Makefiles

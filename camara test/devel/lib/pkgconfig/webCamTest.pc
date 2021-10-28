@@ -1,0 +1,8 @@
+prefix=/home/lucasrj/ros/test/devel
+
+Name: webCamTest
+Description: Description of webCamTest
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,14 @@
+<launch>
+  <node
+    pkg="webCamTest"
+    type="webcam"
+    name="webcam"
+    output="screen"
+  />
+  <node
+    pkg="webCamTest"
+    type="viewer"
+    name="viewer"
+    output="screen"
+  />
+</launch> 
